@@ -11,7 +11,7 @@ MODEL_LABELS = [
     'UCB1',
     'UCB1-Tuned',
     'Thompson Sampling',
-    'G-Ucb1',
+    'G-UCB1',
     'GWA-UCB1',
 ]
 
