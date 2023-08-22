@@ -11,7 +11,7 @@ MODEL_LABELS = [
     'Epsilon Greedy',
     'Annealing Epsilon Greedy',
     'Softmax',
-    'KL-Ucb',
+    'KL-UCB',
     'UCB1',
     'UCB1-Tuned',
     'Thompson Sampling',
