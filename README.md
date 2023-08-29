@@ -3,10 +3,7 @@
 This project provides a simulation of multi-armed bandit problems.
 
 This implementation is based on the below paper.
-Simple Modification of the Upper Confidence Bound Algorithm by Generalized Weighted Averages (https://arxiv.org/).
-
-
-Note: The arxiv link will be described here as soon as the paper is published on arxiv.
+Simple Modification of the Upper Confidence Bound Algorithm by Generalized Weighted Averages (https://arxiv.org/abs/2308.14350).
 
 ## Requirements
 
