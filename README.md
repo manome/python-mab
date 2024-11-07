@@ -12,6 +12,7 @@ The required libraries are listed below.
 
 - NumPy
 - matplotlib
+- scikit-optimize
 
 ## Installation
 
