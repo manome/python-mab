@@ -128,7 +128,7 @@ def main():
     '''
 
     '''
-    # Experiment 3: Survival MAB with GWA-UCB1, 8 Arms, Initial Budgets and Probabilities
+    # Experiment 3: Survival MAB with GWA-UCB1, 8 Arms
     TARGET_SIMULATION = execute_survival_mab_with_gwa_ucb1
     TARGET_SIMULATION_OPTIONS = {
         'random_seed': 0,
