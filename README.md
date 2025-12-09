@@ -1,9 +1,6 @@
 # Multi-armed bandit problems
 
-This project provides a simulation of multi-armed bandit problems.
-
-This implementation is based on the below paper.
-Simple Modification of the Upper Confidence Bound Algorithm by Generalized Weighted Averages (https://arxiv.org/abs/2308.14350).
+This project provides the official implementation of the following paper. Simple Modification of the Upper Confidence Bound Algorithm by Generalized Weighted Averages (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322757).
 
 ## Requirements
 
@@ -19,6 +16,7 @@ The required libraries are listed below.
 ```
 $ pip install numpy
 $ pip install matplotlib
+$ pip install scikit-optimize
 ```
 
 ## Quickstart StochasticMAB
